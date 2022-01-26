@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-list-react-hooks/static/css/main.e5b7c423.css",
+    "main.js": "/todo-list-react-hooks/static/js/main.d4cd1731.js",
+    "index.html": "/todo-list-react-hooks/index.html",
+    "main.e5b7c423.css.map": "/todo-list-react-hooks/static/css/main.e5b7c423.css.map",
+    "main.d4cd1731.js.map": "/todo-list-react-hooks/static/js/main.d4cd1731.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5b7c423.css",
+    "static/js/main.d4cd1731.js"
+  ]
+}
